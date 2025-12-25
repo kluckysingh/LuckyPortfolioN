@@ -35,10 +35,10 @@ const works = [
     projectLink: 'https://fruity-ecommerce.netlify.app/'
   },
   {
-    imgSrc: '/images/p1.png',
-    title: 'vCard Personal portfolio',
-    tags: ['Web-design', 'Development'],
-    projectLink: 'https://kluckysingh.github.io/Video------Trailer'
+    imgSrc: '/images/ship.png',
+    title: 'Alien Invansion Python game',
+    tags: ['Python', 'Game'],
+    projectLink: 'https://github.com/kluckysingh/Alien-Invasion.git'
   },
 ];
 
