@@ -35,7 +35,7 @@ const works = [
     projectLink: 'https://fruity-ecommerce.netlify.app/'
   },
   {
-    imgSrc: '/images/ship.png',
+    imgSrc: '/images/ship1.png',
     title: 'Alien Invansion Python game',
     tags: ['Python', 'Game'],
     projectLink: 'https://github.com/kluckysingh/Alien-Invasion.git'
